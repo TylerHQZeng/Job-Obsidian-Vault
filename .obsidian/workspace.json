@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "42d1117ca4a64af7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db476f27437a8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bbf68ca2a8ab8ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "40b41891ed992925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWE Leetcode/Dynamic Programming/Edit Distance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Edit Distance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c32d1c81192e3037",
+    "type": "split",
+    "children": [
+      {
+        "id": "6805a3701da7fd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab538cbe51caed3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86a07cfcef08701e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "65d59fe6bc0c0b24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d75ba7bfc43965a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3103cd1cf1f4ec47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "601bb5ef26e25b2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Leetcode/General/LRU Cache.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LRU Cache"
+            }
+          },
+          {
+            "id": "016986bd3489b443",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Leetcode/General/LRU Cache.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LRU Cache"
+            }
+          },
+          {
+            "id": "db3f1128c752d73c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1a1f0bf1e39b7a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Leetcode/General/LRU Cache.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LRU Cache"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2bbf68ca2a8ab8ed",
+  "lastOpenFiles": [
+    "SWE Leetcode/Dynamic Programming/Edit Distance.md",
+    "System Design",
+    "SWE Leetcode/Dynamic Programming/Gray Code.md",
+    "SWE Leetcode/Template.md",
+    "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Graphs/Maximum Number of Moves in a Grid.md",
+    "SWE Leetcode/Graphs/Is Graph Bipartite.md",
+    "SWE Leetcode/Graphs/Count Unreachable Pairs of Nodes in an Undirected Graph.md",
+    "SWE Leetcode/Dynamic Programming/Longest Square Streak in an Array.md",
+    "SWE Leetcode/Trees/Minimum Time to Collect All Apples in a Tree.md",
+    "SWE Leetcode/Graphs/Nearest Exit from Entrance in Maze.md",
+    "SWE Leetcode/Algorithms.md",
+    "SWE Leetcode/Trees/Flip Equivalent Binary Trees.md",
+    "DS Leetcode/Table of Contents.md",
+    "SWE Leetcode/Google.md",
+    "DS Leetcode/Template.md",
+    "DS Leetcode",
+    "Untitled.canvas",
+    "SWE Leetcode/Graphs/Amount of Time for Binary Tree to Be Infected.md",
+    "SWE Leetcode/Heaps/Ugly Number II.md",
+    "SWE Leetcode/Trees/Cousins in Binary Tree.md",
+    "SWE Leetcode/Graphs/Battleships in a Board.md",
+    "SWE Leetcode/DFS/Longest Consecutive Sequence.md",
+    "SWE Leetcode/Dynamic Programming/Maximal Square.md",
+    "SWE Leetcode/Trees",
+    "Images/Pasted image 20241026114834.png",
+    "Leetcode/temp.md",
+    "SWE Leetcode/Trees/Cousins in Binary Tree II.md",
+    "SWE Leetcode/Stacks/Simplify Path.md",
+    "SWE Leetcode/Trees/Find Duplicate Subtrees.md",
+    "SWE Leetcode/Dynamic Programming/Delete and Earn.md",
+    "Images",
+    "Images/Pasted image 20241020221919.png",
+    "Pasted image 20241020221905.png",
+    "SWE Leetcode/Dynamic Programming",
+    "SWE Leetcode/Math",
+    "SWE Leetcode/BFS",
+    "SWE Leetcode/Graphs",
+    "SWE Leetcode/Linked Lists",
+    "SWE Leetcode/DFS"
+  ]
+}
