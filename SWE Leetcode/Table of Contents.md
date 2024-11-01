@@ -1,4 +1,3 @@
-
 # Arrays, Sliding Window, Hashmaps
 
 146. [[LRU Cache]]
@@ -13,13 +12,11 @@
 31. [[Next Permutation]]
 1052. [[Grumpy Bookstore Owner]]
 398. [[Random Pick Index]]
-
 # Intervals
 
 2406. [[Divide Intervals Into Minimum Number of Groups]]
 56. [[Merge Intervals]]
 986. [[Interval List Intersections]]
-
 # Heaps
 
 347. [[Top K Frequent Elements]]
@@ -32,10 +29,6 @@
 735. [[Asteroid Simulation]]
 503. [[Next Greater Element II]]
 921. [[Minimum Add to Make Parentheses Valid]]
-
-# DFS
-
-128. [[Longest Consecutive Sequence]]
 # Linked Lists
 
 61. [[Rotate List]]
@@ -52,13 +45,10 @@
 2385. [[Amount of Time for Binary Tree to Be Infected]]
 1962. [[Nearest Exit from Entrance in Maze]]
 2684. [[Maximum Number of Moves in a Grid]]
-# BFS
-
 # Math
 
 1492. [[The kth Factor of n]]
 264. [[Ugly Number II]]
-
 # Dynamic Programming
 
 983. [[Minimum Cost for Tickets]]
@@ -69,7 +59,7 @@
 221. [[Maximal Square]]
 2501. [[Longest Square Streak in an Array]]
 89. [[Gray Code]]
-
+90. 128. [[Longest Consecutive Sequence]]
 # Trees
 
 103. [[Binary Tree Zigzag Level Order Traversal]]
@@ -79,3 +69,6 @@
 652. [[Find Duplicate Subtrees]]
 951. [[Flip Equivalent Binary Trees]]
 1443. [[Minimum Time to Collect All Apples in a Tree]]
+# Strings
+
+1957. [[Delete Characters to Make Fancy String]]
