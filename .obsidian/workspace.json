@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e5aae0e3be5d549",
+        "id": "c5e0ac962c0ae3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "4b656275399a88a7",
+            "id": "3fc020dcddf2c999",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -158,11 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b656275399a88a7",
+  "active": "3fc020dcddf2c999",
   "lastOpenFiles": [
-    "SWE Leetcode/String/Delete Characters to Make Fancy String.md",
     "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/String/Rotate String.md",
     "SWE Leetcode/Template.md",
+    "SWE Leetcode/String/Circular Sentence.md",
+    "SWE Leetcode/String/Delete Characters to Make Fancy String.md",
+    "SWE Leetcode/Heaps/Top K Frequent Elements.md",
+    "DS Leetcode/Table of Contents.md",
     "SWE Leetcode/Dynamic Programming/Edit Distance.md",
     "SWE Leetcode/Dynamic Programming/Longest Consecutive Sequence.md",
     "SWE Leetcode/String",
@@ -176,7 +180,6 @@
     "SWE Leetcode/Graphs/Nearest Exit from Entrance in Maze.md",
     "SWE Leetcode/Algorithms.md",
     "SWE Leetcode/Trees/Flip Equivalent Binary Trees.md",
-    "DS Leetcode/Table of Contents.md",
     "SWE Leetcode/Google.md",
     "DS Leetcode/Template.md",
     "DS Leetcode",
@@ -189,9 +192,6 @@
     "SWE Leetcode/Trees",
     "Images/Pasted image 20241026114834.png",
     "Leetcode/temp.md",
-    "SWE Leetcode/Trees/Cousins in Binary Tree II.md",
-    "SWE Leetcode/Stacks/Simplify Path.md",
-    "SWE Leetcode/Trees/Find Duplicate Subtrees.md",
     "Images",
     "Images/Pasted image 20241020221919.png",
     "Pasted image 20241020221905.png",
