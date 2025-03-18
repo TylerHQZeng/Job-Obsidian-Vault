@@ -163,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716dd756a5380c30",
+  "active": "2ab538cbe51caed3",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "SWE Leetcode/Template.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Longest Nice Subarray.md",
     "SWE Leetcode/Table of Contents.md",
@@ -193,7 +194,6 @@
     "SWE Leetcode/Dynamic Programming/Edit Distance.md",
     "SWE Leetcode/String",
     "System Design",
-    "SWE Leetcode/Dynamic Programming/Gray Code.md",
     "DS Leetcode",
     "Untitled.canvas",
     "SWE Leetcode/Trees",
