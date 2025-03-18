@@ -1,76 +1,109 @@
-# Arrays, Sliding Window, Hashmaps
+### Arrays, Sliding Window, Hashmaps
 
-146. [[LRU Cache]]
-560. [[Subarray Sum Equals K]]
-162. [[Find Peak Element]]
-1004. [[Max Consecutive Ones III]]
-134. [[Gas Station]]
-2938. [[Separate Black and White Balls]]
-12. [[Integer to Roman]]
-2149. [[Rearrange Array Elements by Sign]]
-939. [[Minimum Area Rectangle]]
-31. [[Next Permutation]]
-1052. [[Grumpy Bookstore Owner]]
-398. [[Random Pick Index]]
-# Intervals
+- [[LRU Cache]]
+- [[Subarray Sum Equals K]]
+- [[Find Peak Element]]
+- [[Max Consecutive Ones III]]
+- [[Gas Station]]
+- [[Separate Black and White Balls]]
+- [[Integer to Roman]]
+- [[Rearrange Array Elements by Sign]]
+- [[Minimum Area Rectangle]]
+- [[Next Permutation]]
+- [[Grumpy Bookstore Owner]]
+- [[Random Pick Index]]
+- [[Maximum Candies Allocated to K Children]]
+- [[Number of Substrings Containing All Three Characters]]
+- [[House Robber IV]]
+- [[Minimum Time to Repair Cars]]
+- [[Longest Nice Subarray]]
 
-2406. [[Divide Intervals Into Minimum Number of Groups]]
-56. [[Merge Intervals]]
-986. [[Interval List Intersections]]
-# Heaps
+---
 
-347. [[Top K Frequent Elements]]
-215. [[Kth Largest Element in an Array]]
-264. [[Ugly Number II]]
+### Intervals
 
-# Stacks
+- [[Divide Intervals Into Minimum Number of Groups]]
+- [[Merge Intervals]]
+- [[Interval List Intersections]]
 
-71. [[Simplify Path]]
-735. [[Asteroid Simulation]]
-503. [[Next Greater Element II]]
-921. [[Minimum Add to Make Parentheses Valid]]
-# Linked Lists
+---
 
-61. [[Rotate List]]
-86. [[Partition List]]
-# Graphs
+### Heaps
 
-787. [[Cheapest Flights Within K Stops]]
-79. [[Word Search]]
-934. [[Shortest Bridge]]
-419. [[Battleships in a Board]]
-2316. [[Count Unreachable Pairs of Nodes in an Undirected Graph]]
-785. [[Is Graph Bipartite]]
-695. [[Max Area of Island]]
-2385. [[Amount of Time for Binary Tree to Be Infected]]
-1962. [[Nearest Exit from Entrance in Maze]]
-2684. [[Maximum Number of Moves in a Grid]]
-# Math
+- [[Top K Frequent Elements]]
+- [[Kth Largest Element in an Array]]
+- [[Ugly Number II]]
 
-1492. [[The kth Factor of n]]
-264. [[Ugly Number II]]
-# Dynamic Programming
+---
 
-983. [[Minimum Cost for Tickets]]
-39. [[Combination Sum]]
-72. [[Edit Distance]]
-1593. [[Split a String Into the Max Number of Unique Substrings]]
-740. [[Delete and Earn]]
-221. [[Maximal Square]]
-2501. [[Longest Square Streak in an Array]]
-89. [[Gray Code]]
-90. 128. [[Longest Consecutive Sequence]]
-# Trees
+### Stacks
 
-103. [[Binary Tree Zigzag Level Order Traversal]]
-993. [[Cousins in Binary Tree]]
-2641. [[Cousins in Binary Tree II]]
-1110. [[Delete Nodes and Return Forest]]
-652. [[Find Duplicate Subtrees]]
-951. [[Flip Equivalent Binary Trees]]
-1443. [[Minimum Time to Collect All Apples in a Tree]]
-# Strings
+- [[Simplify Path]]
+- [[Asteroid Simulation]]
+- [[Next Greater Element II]]
+- [[Minimum Add to Make Parentheses Valid]]
 
-1957. [[Delete Characters to Make Fancy String]]
-2490. [[Circular Sentence]]
-796. [[Rotate String]]
+---
+
+### Linked Lists
+
+- [[Rotate List]]
+- [[Partition List]]
+
+---
+
+### Graphs
+
+- [[Cheapest Flights Within K Stops]]
+- [[Word Search]]
+- [[Shortest Bridge]]
+- [[Battleships in a Board]]
+- [[Count Unreachable Pairs of Nodes in an Undirected Graph]]
+- [[Is Graph Bipartite]]
+- [[Max Area of Island]]
+- [[Amount of Time for Binary Tree to Be Infected]]
+- [[Nearest Exit from Entrance in Maze]]
+- [[Maximum Number of Moves in a Grid]]
+- [[Redundant Connection]]
+- [[Maximum Number of Fish in a Grid]]
+
+---
+
+### Math
+
+- [[The kth Factor of n]]
+- [[Ugly Number II]]
+
+---
+
+### Dynamic Programming
+
+- [[Minimum Cost for Tickets]]
+- [[Combination Sum]]
+- [[Edit Distance]]
+- [[Split a String Into the Max Number of Unique Substrings]]
+- [[Delete and Earn]]
+- [[Maximal Square]]
+- [[Longest Square Streak in an Array]]
+- [[Gray Code]]
+- [[Longest Consecutive Sequence]]
+
+---
+
+### Trees
+
+- [[Binary Tree Zigzag Level Order Traversal]]
+- [[Cousins in Binary Tree]]
+- [[Cousins in Binary Tree II]]
+- [[Delete Nodes and Return Forest]]
+- [[Find Duplicate Subtrees]]
+- [[Flip Equivalent Binary Trees]]
+- [[Minimum Time to Collect All Apples in a Tree]]
+
+---
+
+### Strings
+
+- [[Delete Characters to Make Fancy String]]
+- [[Circular Sentence]]
+- [[Rotate String]]

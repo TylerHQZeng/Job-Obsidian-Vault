@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e0ac962c0ae3f7",
+        "id": "eba2e8aa54b049c4",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc020dcddf2c999",
+            "id": "716dd756a5380c30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Longest Nice Subarray.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longest Nice Subarray"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,40 +163,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fc020dcddf2c999",
+  "active": "716dd756a5380c30",
   "lastOpenFiles": [
-    "SWE Leetcode/Table of Contents.md",
-    "SWE Leetcode/String/Rotate String.md",
     "SWE Leetcode/Template.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Longest Nice Subarray.md",
+    "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Time to Repair Cars.md",
+    "Minimum Time to Repair Cars.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Number of Substrings Containing All Three Characters.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/House Robber IV.md",
+    "SWE Leetcode/Graphs/Is Graph Bipartite.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Rearrange Array Elements by Sign.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Grumpy Bookstore Owner.md",
+    "SWE Leetcode/Dynamic Programming/Longest Consecutive Sequence.md",
+    "Images/Pasted image 20241026114834.png",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Area Rectangle.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Maximum Candies Allocated to K Children.md",
+    "SWE Leetcode/Graphs/Maximum Number of Fish in a Grid.md",
+    "SWE Leetcode/Graphs/Redundant Connection.md",
+    "SWE Leetcode/Graphs/Maximum Number of Moves in a Grid.md",
+    "SWE Leetcode/Graphs/Shortest Bridge.md",
+    "SWE Leetcode/Interview Questions.md",
+    "SWE Leetcode/Algorithms.md",
+    "SWE Leetcode/String/Rotate String.md",
     "SWE Leetcode/String/Circular Sentence.md",
     "SWE Leetcode/String/Delete Characters to Make Fancy String.md",
     "SWE Leetcode/Heaps/Top K Frequent Elements.md",
     "DS Leetcode/Table of Contents.md",
     "SWE Leetcode/Dynamic Programming/Edit Distance.md",
-    "SWE Leetcode/Dynamic Programming/Longest Consecutive Sequence.md",
     "SWE Leetcode/String",
     "System Design",
     "SWE Leetcode/Dynamic Programming/Gray Code.md",
-    "SWE Leetcode/Graphs/Maximum Number of Moves in a Grid.md",
-    "SWE Leetcode/Graphs/Is Graph Bipartite.md",
-    "SWE Leetcode/Graphs/Count Unreachable Pairs of Nodes in an Undirected Graph.md",
-    "SWE Leetcode/Dynamic Programming/Longest Square Streak in an Array.md",
-    "SWE Leetcode/Trees/Minimum Time to Collect All Apples in a Tree.md",
-    "SWE Leetcode/Graphs/Nearest Exit from Entrance in Maze.md",
-    "SWE Leetcode/Algorithms.md",
-    "SWE Leetcode/Trees/Flip Equivalent Binary Trees.md",
-    "SWE Leetcode/Google.md",
-    "DS Leetcode/Template.md",
     "DS Leetcode",
     "Untitled.canvas",
-    "SWE Leetcode/Graphs/Amount of Time for Binary Tree to Be Infected.md",
-    "SWE Leetcode/Heaps/Ugly Number II.md",
-    "SWE Leetcode/Trees/Cousins in Binary Tree.md",
-    "SWE Leetcode/Graphs/Battleships in a Board.md",
-    "SWE Leetcode/Dynamic Programming/Maximal Square.md",
     "SWE Leetcode/Trees",
-    "Images/Pasted image 20241026114834.png",
-    "Leetcode/temp.md",
     "Images",
     "Images/Pasted image 20241020221919.png",
     "Pasted image 20241020221905.png",
