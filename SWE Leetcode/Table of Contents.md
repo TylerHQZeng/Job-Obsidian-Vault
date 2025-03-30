@@ -18,6 +18,7 @@
 - [[Minimum Time to Repair Cars]]
 - [[Longest Nice Subarray]]
 - [[Minimum Operations to Make Binary Array Elements Equal to One I]]
+- [[Partition Labels]]
 
 ---
 

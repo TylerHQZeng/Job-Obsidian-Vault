@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Operations to Make Binary Array Elements Equal to One I.md",
+                "file": "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Partition Labels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimum Operations to Make Binary Array Elements Equal to One I"
+              "title": "Partition Labels"
             }
           }
         ]
@@ -166,8 +166,10 @@
   "active": "baec6153cf93d293",
   "lastOpenFiles": [
     "SWE Leetcode/Template.md",
-    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Operations to Make Binary Array Elements Equal to One I.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Partition Labels.md",
     "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Gas Station.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Operations to Make Binary Array Elements Equal to One I.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Longest Nice Subarray.md",
     "New Text Document.txt",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Time to Repair Cars.md",
@@ -191,8 +193,6 @@
     "SWE Leetcode/String/Circular Sentence.md",
     "SWE Leetcode/String/Delete Characters to Make Fancy String.md",
     "SWE Leetcode/Heaps/Top K Frequent Elements.md",
-    "DS Leetcode/Table of Contents.md",
-    "SWE Leetcode/Dynamic Programming/Edit Distance.md",
     "SWE Leetcode/String",
     "System Design",
     "DS Leetcode",
