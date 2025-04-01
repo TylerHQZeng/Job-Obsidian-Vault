@@ -89,6 +89,7 @@
 - [[Longest Square Streak in an Array]]
 - [[Gray Code]]
 - [[Longest Consecutive Sequence]]
+- [[Solving Questions With Brainpower]]
 
 ---
 

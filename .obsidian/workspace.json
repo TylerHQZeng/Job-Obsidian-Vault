@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Partition Labels.md",
+                "file": "SWE Leetcode/Dynamic Programming/Solving Questions With Brainpower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partition Labels"
+              "title": "Solving Questions With Brainpower"
             }
           }
         ]
@@ -165,9 +165,11 @@
   },
   "active": "baec6153cf93d293",
   "lastOpenFiles": [
+    "SWE Leetcode/Dynamic Programming/Split a String Into the Max Number of Unique Substrings.md",
     "SWE Leetcode/Template.md",
-    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Partition Labels.md",
+    "SWE Leetcode/Dynamic Programming/Solving Questions With Brainpower.md",
     "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Partition Labels.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Gas Station.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Operations to Make Binary Array Elements Equal to One I.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Longest Nice Subarray.md",
@@ -191,8 +193,6 @@
     "SWE Leetcode/Algorithms.md",
     "SWE Leetcode/String/Rotate String.md",
     "SWE Leetcode/String/Circular Sentence.md",
-    "SWE Leetcode/String/Delete Characters to Make Fancy String.md",
-    "SWE Leetcode/Heaps/Top K Frequent Elements.md",
     "SWE Leetcode/String",
     "System Design",
     "DS Leetcode",
