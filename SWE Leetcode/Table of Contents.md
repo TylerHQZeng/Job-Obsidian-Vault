@@ -19,6 +19,7 @@
 - [[Longest Nice Subarray]]
 - [[Minimum Operations to Make Binary Array Elements Equal to One I]]
 - [[Partition Labels]]
+- [[Maximum Value of an Ordered Triplet I]]
 
 ---
 
