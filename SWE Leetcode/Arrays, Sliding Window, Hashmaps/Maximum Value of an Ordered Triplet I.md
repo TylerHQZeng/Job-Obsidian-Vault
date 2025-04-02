@@ -33,13 +33,16 @@ It can be shown that there are no ordered triplets of indices with a value great
 ## Notes
 
 - Triple for loop
-- There is a way to do this in $O(n)$ but haven't figured it out
+- There is a way to do this in $O(n)$
+- Greedy + prefix sum to compute the max value that i and j can take
+-  When j is fixed, the maximum value of the triplet is achieved when nums`[i]` and nums`[k]` respectively take the maximum values from `[0,j) and [j+1,n)`.
 ## Complexity
 
-- Time: $O(n^{3})$
+- Time: $O(n^{3})$ for brute force
 - Space: $O(1)$
 ## Code
 
+Brute force:
 ```python
 class Solution:
 
@@ -62,5 +65,12 @@ class Solution:
         return res
 ```
 
+Greedy:
+```python
+
+```
+
 #easy 
 #arrays
+#greedy
+#prefixsum
