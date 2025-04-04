@@ -112,3 +112,4 @@
 - [[Delete Characters to Make Fancy String]]
 - [[Circular Sentence]]
 - [[Rotate String]]
+- [[Verifying an Alien Dictionary]]
