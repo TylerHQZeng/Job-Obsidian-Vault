@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Maximum Value of an Ordered Triplet I.md",
+                "file": "SWE Leetcode/Trees/Lowest Common Ancestor of Deepest Leaves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Value of an Ordered Triplet I"
+              "title": "Lowest Common Ancestor of Deepest Leaves"
             }
           }
         ]
@@ -166,8 +166,9 @@
   "active": "baec6153cf93d293",
   "lastOpenFiles": [
     "SWE Leetcode/Template.md",
-    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Maximum Value of an Ordered Triplet I.md",
+    "SWE Leetcode/Trees/Lowest Common Ancestor of Deepest Leaves.md",
     "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Maximum Value of an Ordered Triplet I.md",
     "SWE Leetcode/Dynamic Programming/Solving Questions With Brainpower.md",
     "SWE Leetcode/Dynamic Programming/Split a String Into the Max Number of Unique Substrings.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Partition Labels.md",
@@ -192,7 +193,6 @@
     "SWE Leetcode/Graphs/Shortest Bridge.md",
     "SWE Leetcode/Interview Questions.md",
     "SWE Leetcode/Algorithms.md",
-    "SWE Leetcode/String/Rotate String.md",
     "SWE Leetcode/String",
     "System Design",
     "DS Leetcode",
