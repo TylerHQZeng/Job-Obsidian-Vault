@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE Leetcode/String/Verifying an Alien Dictionary.md",
+                "file": "SWE Leetcode/Bit Manipulation/Sum of All Subset XOR Totals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verifying an Alien Dictionary"
+              "title": "Sum of All Subset XOR Totals"
             }
           }
         ]
@@ -165,9 +165,12 @@
   },
   "active": "baec6153cf93d293",
   "lastOpenFiles": [
-    "SWE Leetcode/Template.md",
-    "SWE Leetcode/String/Verifying an Alien Dictionary.md",
     "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Trees/Find Duplicate Subtrees.md",
+    "SWE Leetcode/Bit Manipulation/Sum of All Subset XOR Totals.md",
+    "SWE Leetcode/Template.md",
+    "SWE Leetcode/Bit Manipulation",
+    "SWE Leetcode/String/Verifying an Alien Dictionary.md",
     "SWE Leetcode/Trees/Lowest Common Ancestor of Deepest Leaves.md",
     "Images/Pasted image 20241020221919.png",
     "Images/Pasted image 20241026114834.png",
@@ -192,8 +195,6 @@
     "SWE Leetcode/Graphs/Maximum Number of Fish in a Grid.md",
     "SWE Leetcode/Graphs/Redundant Connection.md",
     "SWE Leetcode/Graphs/Maximum Number of Moves in a Grid.md",
-    "SWE Leetcode/Graphs/Shortest Bridge.md",
-    "SWE Leetcode/Interview Questions.md",
     "SWE Leetcode/String",
     "System Design",
     "DS Leetcode",
@@ -203,7 +204,6 @@
     "Pasted image 20241020221905.png",
     "SWE Leetcode/Dynamic Programming",
     "SWE Leetcode/Math",
-    "SWE Leetcode/BFS",
-    "SWE Leetcode/Graphs"
+    "SWE Leetcode/BFS"
   ]
 }

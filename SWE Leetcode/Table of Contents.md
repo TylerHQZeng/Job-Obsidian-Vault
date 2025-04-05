@@ -113,3 +113,8 @@
 - [[Circular Sentence]]
 - [[Rotate String]]
 - [[Verifying an Alien Dictionary]]
+
+---
+### Bit Manipulation
+
+- [[Sum of All Subset XOR Totals]]
