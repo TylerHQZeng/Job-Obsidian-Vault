@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE Leetcode/Bit Manipulation/Sum of All Subset XOR Totals.md",
+                "file": "SWE Leetcode/Graphs/Largest Divisible Subset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sum of All Subset XOR Totals"
+              "title": "Largest Divisible Subset"
             }
           }
         ]
@@ -165,10 +165,12 @@
   },
   "active": "baec6153cf93d293",
   "lastOpenFiles": [
-    "SWE Leetcode/Table of Contents.md",
-    "SWE Leetcode/Trees/Find Duplicate Subtrees.md",
-    "SWE Leetcode/Bit Manipulation/Sum of All Subset XOR Totals.md",
     "SWE Leetcode/Template.md",
+    "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Graphs/Largest Divisible Subset.md",
+    "SWE Leetcode/Dynamic Programming/Gray Code.md",
+    "SWE Leetcode/Bit Manipulation/Sum of All Subset XOR Totals.md",
+    "SWE Leetcode/Trees/Find Duplicate Subtrees.md",
     "SWE Leetcode/Bit Manipulation",
     "SWE Leetcode/String/Verifying an Alien Dictionary.md",
     "SWE Leetcode/Trees/Lowest Common Ancestor of Deepest Leaves.md",
@@ -193,8 +195,6 @@
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Area Rectangle.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Maximum Candies Allocated to K Children.md",
     "SWE Leetcode/Graphs/Maximum Number of Fish in a Grid.md",
-    "SWE Leetcode/Graphs/Redundant Connection.md",
-    "SWE Leetcode/Graphs/Maximum Number of Moves in a Grid.md",
     "SWE Leetcode/String",
     "System Design",
     "DS Leetcode",
