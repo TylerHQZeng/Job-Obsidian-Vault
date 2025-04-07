@@ -28,6 +28,7 @@
 - [[Divide Intervals Into Minimum Number of Groups]]
 - [[Merge Intervals]]
 - [[Interval List Intersections]]
+- [[Count Days Without Meetings]]
 
 ---
 
@@ -92,6 +93,7 @@
 - [[Gray Code]]
 - [[Longest Consecutive Sequence]]
 - [[Solving Questions With Brainpower]]
+- [[Partition Equal Subset Sum]]
 
 ---
 
