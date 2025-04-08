@@ -20,6 +20,7 @@
 - [[Minimum Operations to Make Binary Array Elements Equal to One I]]
 - [[Partition Labels]]
 - [[Maximum Value of an Ordered Triplet I]]
+- [[Minimum Operations to Make Elements in Array Distinct]]
 
 ---
 
