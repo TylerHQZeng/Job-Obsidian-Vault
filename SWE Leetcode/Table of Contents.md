@@ -21,6 +21,7 @@
 - [[Partition Labels]]
 - [[Maximum Value of an Ordered Triplet I]]
 - [[Minimum Operations to Make Elements in Array Distinct]]
+- [[Minimum Operations to Make Array Values Equal to K]]
 
 ---
 
