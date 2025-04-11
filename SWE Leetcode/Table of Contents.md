@@ -118,6 +118,7 @@
 - [[Circular Sentence]]
 - [[Rotate String]]
 - [[Verifying an Alien Dictionary]]
+- [[Count Symmetric Integers]]
 
 ---
 ### Bit Manipulation
