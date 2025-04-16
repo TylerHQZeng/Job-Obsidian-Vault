@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE Leetcode/String/Count Symmetric Integers.md",
+                "file": "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Count the Number of Good Subarrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count Symmetric Integers"
+              "title": "Count the Number of Good Subarrays"
             }
           }
         ]
@@ -166,8 +166,10 @@
   "active": "623e6b7a0ba51136",
   "lastOpenFiles": [
     "SWE Leetcode/Template.md",
-    "SWE Leetcode/String/Count Symmetric Integers.md",
     "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Count the Number of Good Subarrays.md",
+    "System Design/Introduction.md",
+    "SWE Leetcode/String/Count Symmetric Integers.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Operations to Make Array Values Equal to K.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Operations to Make Binary Array Elements Equal to One I.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Operations to Make Elements in Array Distinct.md",
@@ -193,8 +195,6 @@
     "New Text Document.txt",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Time to Repair Cars.md",
     "Minimum Time to Repair Cars.md",
-    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Number of Substrings Containing All Three Characters.md",
-    "SWE Leetcode/Arrays, Sliding Window, Hashmaps/House Robber IV.md",
     "SWE Leetcode/String",
     "System Design",
     "DS Leetcode",
