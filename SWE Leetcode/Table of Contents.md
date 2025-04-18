@@ -120,6 +120,7 @@
 - [[Rotate String]]
 - [[Verifying an Alien Dictionary]]
 - [[Count Symmetric Integers]]
+- [[Count and Say]]
 
 ---
 ### Bit Manipulation

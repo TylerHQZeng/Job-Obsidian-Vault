@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Count the Number of Good Subarrays.md",
+                "file": "SWE Leetcode/String/Count and Say.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count the Number of Good Subarrays"
+              "title": "Count and Say"
             }
           }
         ]
@@ -167,6 +167,7 @@
   "lastOpenFiles": [
     "SWE Leetcode/Template.md",
     "SWE Leetcode/Table of Contents.md",
+    "SWE Leetcode/String/Count and Say.md",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Count the Number of Good Subarrays.md",
     "System Design/Introduction.md",
     "SWE Leetcode/String/Count Symmetric Integers.md",
@@ -194,7 +195,6 @@
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Longest Nice Subarray.md",
     "New Text Document.txt",
     "SWE Leetcode/Arrays, Sliding Window, Hashmaps/Minimum Time to Repair Cars.md",
-    "Minimum Time to Repair Cars.md",
     "SWE Leetcode/String",
     "System Design",
     "DS Leetcode",
